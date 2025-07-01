@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning DSA-Java  |  Web Devlopment (HTML ,CSS ,JavaScript)  |  MySql 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
