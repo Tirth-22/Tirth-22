@@ -13,7 +13,7 @@
   <a href="mailto:tirthmakadia2006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/Tirth Makadia/" target="_blank">
+  <a href="https://www.linkedin.com/in/tirth-makadia-769b0931b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </div>
 
