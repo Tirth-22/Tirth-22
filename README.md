@@ -34,7 +34,8 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tirth-22&layout=compact&cache_seconds=60" />
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tirth-22&layout=compact&theme=radical&cache_seconds=60" />
 </div>
+
