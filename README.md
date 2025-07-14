@@ -5,7 +5,7 @@
 
 <h2 align="center">📘 Currently Learning</h2><br/>
 
-<p align="center">JavaSwing, HTTP Requests in Java And API Integration</p>
+<p align="center">JavaSwing GUI, HTTP Requests in Java And API Integration</p>
 
 <hr/>
 
