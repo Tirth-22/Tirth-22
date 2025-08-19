@@ -3,6 +3,12 @@
      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There!+I'm+Tirth+Makadia!" alt="Typing SVG" />
    </a>
 </h1>
+<h3 align="center">
+   <span style="color:#3b82f6;">
+       Interested in Full Stack Java Development | With Spring Boot & Microservices
+   </span>
+</h3>
+
 
 <hr>
 
