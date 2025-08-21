@@ -55,15 +55,28 @@
 
 <br/>
 
+<!-- Stats, Streak & Graph side by side -->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tirth-22&theme=dark&background=0d1117&ring=3b82f6&fire=ef4444&currStreakLabel=ffffff&sideNums=ffffff&dates=aaaaaa&hide_border=true" height="180"/>
+      </td>
+      <td>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tirth-22&bg_color=0d1117&color=ffffff&line=3b82f6&point=ef4444&area=true&hide_border=true" height="180"/>
+      </td>
+    </tr>
+  </table>
+</div>
 <!-- Stats and Graph side by side -->
 <div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Tirth-22&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=3b82f6&hide_border=true" height="200"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Tirth-22&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=3b82f6&hide_border=true" height="180"/>
       </td>
       <td>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tirth-22&bg_color=0d1117&color=ffffff&line=3b82f6&point=ef4444&area=true&hide_border=true" height="200"/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tirth-22&bg_color=0d1117&color=ffffff&line=3b82f6&point=ef4444&area=true&hide_border=true" height="180"/>
       </td>
     </tr>
   </table>
