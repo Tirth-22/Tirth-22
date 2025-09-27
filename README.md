@@ -49,7 +49,7 @@
 
 <!-- Most Languages Used (top center, dark bg, bigger) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tirth-22&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=3b82f6&cache_seconds=60" height="250" width="400"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tirth-22&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=3b82f6&cache_seconds=1800" />
 </div>
 
 
