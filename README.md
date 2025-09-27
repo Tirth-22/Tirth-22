@@ -1,3 +1,5 @@
+
+
 <h1 align="center">
    <a href="https://git.io/typing-svg">
      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There!+I'm+Tirth+Makadia!" alt="Typing SVG" />
@@ -44,28 +46,32 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br/>
+<h2 align="center">🛣️My Full Stack Roadmap 🛣️</h2>
 
-<!-- Most Languages Used (top center, dark bg, bigger) -->
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tirth-22&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=3b82f6&cache_seconds=1800" />
+  <img src="logoweb.png" alt="Full Stack Roadmap" width="1000"/>
 </div>
 
+<hr/>
 
+<h2 align="center">⚡ Stats and Streaks⚡</h2>
 <br/>
 
-<!-- Stats, Streak & Extra side by side -->
+<!-- Three Stats in One Line -->
 <div align="center">
   <table>
     <tr>
       <td>
+        <!-- 📌 Most Used Languages -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tirth-22&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=3b82f6&cache_seconds=1800" height="250"/>
+      </td>
+      <td>
         <!-- 🔥 Streak Stats -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tirth-22&theme=dark&background=0d1117&ring=3b82f6&fire=ef4444&currStreakLabel=ffffff&sideNums=ffffff&dates=aaaaaa&hide_border=true" height="180"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tirth-22&theme=dark&background=0d1117&ring=3b82f6&fire=ef4444&currStreakLabel=ffffff&sideNums=ffffff&dates=aaaaaa&hide_border=true" height="120"/>
       </td>
       <td>
         <!-- 📊 GitHub Stats -->
-        <img src="https://github-readme-stats.vercel.app/api?username=Tirth-22&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=3b82f6&hide_border=true" height="180"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Tirth-22&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=3b82f6&hide_border=true" height="120"/>
       </td>
     </tr>
   </table>
