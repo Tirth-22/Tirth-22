@@ -46,12 +46,12 @@
 
 <hr/>
 
-<h2 align="center">🛣️My Full Stack Roadmap 🛣️</h2>
-
-<div align="center">
-  <img src="logoweb.png" alt="Full Stack Roadmap" width="1000"/>
-</div>
-
+<h2 align="center">🛣️ My Full Stack Roadmap 🛣️</h2>
+<p align="center"> 
+  <a href="https://roadmap-plum.vercel.app/" target="_blank" style="text-decoration: none; color: #fff; background-color: #4f46e5; padding: 10px 20px; border-radius: 8px; font-weight: bold; font-size: 18px;">
+    Click Here to see View Roadmap
+  </a>
+</p>
 <hr/>
 
 <h2 align="center">⚡ Stats and Streaks⚡</h2>
