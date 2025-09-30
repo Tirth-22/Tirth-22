@@ -46,17 +46,20 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats and Streaks⚡</h2>
+<h2 align="center">⚡ Stats and Streaks ⚡</h2>
 <br/>
 
-<!-- Three Stats in One Line -->
+<!-- Most Used Languages (Top & Centered) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tirth-22&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=3b82f6&cache_seconds=1800" height="350"/>
+</div>
+
+<br/>
+
+<!-- Two Stats in One Line (Below) -->
 <div align="center">
   <table>
     <tr>
-      <td>
-        <!-- 📌 Most Used Languages -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tirth-22&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=3b82f6&cache_seconds=1800" height="250"/>
-      </td>
       <td>
         <!-- 🔥 Streak Stats -->
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tirth-22&theme=dark&background=0d1117&ring=3b82f6&fire=ef4444&currStreakLabel=ffffff&sideNums=ffffff&dates=aaaaaa&hide_border=true" height="120"/>
@@ -68,6 +71,7 @@
     </tr>
   </table>
 </div>
+
 
 <!-- Contribution Graph (Full Width) -->
 <div align="center">
