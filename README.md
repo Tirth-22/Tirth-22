@@ -32,7 +32,7 @@
 
 <h2 align="center">⚒️ Languages & Tools</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,javascript,html,css,c,cpp,git,github,vscode,servlet,jsp,jakartaee" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,javascript,html,css,c,cpp,git,github,vscode" />
 </div>
 
 <hr>
