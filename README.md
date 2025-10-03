@@ -6,7 +6,7 @@
 
 <h3 align="center">
    <span style="color:#3b82f6;">
-       Full Stack Java Developer | Spring Boot & Microservices Enthusiast
+       Full Stack Java Developer | Spring Boot & Microservices And DevOps & AWS Enthusiast
    </span>
 </h3>
 
