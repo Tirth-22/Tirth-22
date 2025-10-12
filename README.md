@@ -1,3 +1,4 @@
+<!-- ================= Header ================= -->
 <h1 align="center">
    <a href="https://git.io/typing-svg">
      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=Hi+There!+I'm+Tirth+Makadia!" alt="Typing SVG" />
@@ -6,37 +7,62 @@
 
 <h3 align="center">
    <span style="color:#3b82f6;">
-       Full Stack Java Developer | Spring Boot & Microservices And DevOps & AWS Enthusiast
+       Full Stack Java Developer | Spring Boot & Microservices | DevOps & AWS Enthusiast
    </span>
 </h3>
 
-<hr>
 
-<!-- Coding GIF -->
-<img align="right" alt="Coding" width="280" 
-     src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
+<table width="100%">
+  <tr>
+    <td valign="top" width="65%"> 
+      <!-- 📬 Connect With Me -->
+      <h2>📬 Connect With Me</h2>
+      <a href="mailto:tirthmakadia2006@gmail.com">
+         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+      </a>
+      <a href="https://www.linkedin.com/in/tirth-makadia-769b0931b/" target="_blank">
+         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      <a href="https://www.instagram.com/tirthmakadia22" target="_blank">
+         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+      </a>
 
-<!-- Connect With Me -->
-<div align="center"> 
-   <h2>📬 Connect With Me</h2><br>
-   <a href="mailto:tirthmakadia2006@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-   </a>
-   <a href="https://www.linkedin.com/in/tirth-makadia-769b0931b/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-   </a>
-   <a href="https://www.instagram.com/tirthmakadia22" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-   </a>
-</div>
+  <br>   <!-- ⚒️ Languages & Tools -->
+      <h2>⚒️ Languages & Tools</h2>
+      <table width="100%">
+        <tr>
+          <td align="center">
+            <h3>🧠 Languages</h3>
+            <img src="https://skillicons.dev/icons?i=java,cpp,c,javascript,html,css" />
+          </td>
+          <td align="center">
+            <h3>🧩 Frameworks & Libraries</h3>
+<!-- Spring & Spring Boot -->
+<img src="https://skillicons.dev/icons?i=spring" width="40" alt="Spring" />
+<img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" width="40" alt="Spring Boot" />
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <h3>🗄️ Databases</h3>
+            <img src="https://skillicons.dev/icons?i=mysql" />
+          </td>
+          <td align="center">
+            <h3>🧰 Tools & Others</h3>
+            <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+          </td>
+        </tr>
+      </table>
+    </td> <!-- RIGHT COLUMN: Coding GIFs -->
+    <td valign="top" width="35%">
+      <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" width="280" />
+      <br><br>
+      <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280" />
+    </td>
+  </tr>
+</table>
 
-<h2 align="center">⚒️ Languages & Tools</h2>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,javascript,html,css,c,cpp,git,github,vscode" />
-</div>
-
-<hr>
-
+<!-- ================= GitHub Stats ================= -->
 <h2 align="center">🖼️ GitHub Stats & Activity</h2>
 <div align="center">
   <table>
