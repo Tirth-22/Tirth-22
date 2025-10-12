@@ -23,7 +23,7 @@
 
 <h2 align="center">⚒️ Languages , framworks & databases</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,php,javascript,html,css,c,cpp" />
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 </div>
 
