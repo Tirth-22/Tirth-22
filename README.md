@@ -39,14 +39,22 @@
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
    </a>
 </div>
-
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 <!-- Languages, Frameworks & Databases -->
-<h2 align="center">⚒️ Languages, Frameworks & Databases</h2>
+<h1 align="center">⚒️ Languages</h1>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,php,javascript,html,css,c,cpp" />
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 </div>
 <br>
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+<h1 align="center">🧩 Frameworks & Databases</h1>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postman,mysql,git,github,vscode" />
+</div>
 
 <!-- Divider -->
 <div align="center">
