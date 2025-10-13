@@ -1,13 +1,32 @@
 <!-- ================= Header ================= -->
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hyy+There!+I%60m+Tirth+Makadia;Welcome+to+my+Github+page" alt="Typing SVG" /></a>
-</h1>
-<h1 align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Java+Developer;Intersted+in+SpringBoot+%26+Microservices;+DevOps+%26+Cloud+Enthusiast" alt="Typing SVG" /></a>
-</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hyy+There!+I%60m+Tirth+Makadia;Welcome+to+my+Github+page" alt="Typing SVG" />
+  </a>
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
-<img align="right" alt="Coding" width="380" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Java+Developer;Intersted+in+SpringBoot+%26+Microservices;+DevOps+%26+Cloud+Enthusiast" alt="Typing SVG" />
+  </a>
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
+<div align="center" style="display:flex; justify-content:center;  align-items:center; gap:20px;">
+ <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" alt="Laptop Coding">
+
+  <!-- Coding GIF on Right -->
+  <img alt="Coding" width="300" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+</div>
+
+<!-- Divider -->
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+<!-- Connect With Me -->
 <div align="center"> 
    <h2>📬 Connect With Me</h2>
    <a href="mailto:tirthmakadia2006@gmail.com">
@@ -21,36 +40,68 @@
    </a>
 </div>
 
-<h2 align="center">⚒️ Languages , framworks & databases</h2>
+<!-- Languages, Frameworks & Databases -->
+<h2 align="center">⚒️ Languages, Frameworks & Databases</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,php,javascript,html,css,c,cpp" />
   <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 </div>
+<br>
 
+<!-- Divider -->
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
-<!-- ================= GitHub Stats ================= -->
-<h2 align="center">🖼️ GitHub Stats & Activity</h2>
+<!-- GitHub Analytics -->
+<h2 align="center">📊 GitHub Analytics</h2> 
+
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Tirth-22&show_icons=true&bg_color=0d1117&title_color=f89820&text_color=ffffff&icon_color=f89820&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+      <!-- GitHub Stats Card -->
+      <td width="50%">
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=Tirth-22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+          alt="GitHub Stats" 
+        />
       </td>
-      <td align="center">
-        <img src="https://nirzak-streak-stats.vercel.app?user=Tirth-22&theme=dark&background=0d1117&ring=f89820&fire=f89820&currStreakLabel=f89820&sideNums=ffffff&dates=aaaaaa&hide_border=true" alt="GitHub Streak" height="180"/>
+      <!-- GitHub Streak Card -->
+      <td width="50%">
+        <img 
+          src="https://nirzak-streak-stats.vercel.app?user=Tirth-22&theme=tokyonight" 
+          alt="GitHub Streak" 
+        />
       </td>
     </tr>
     <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tirth-22&layout=compact&bg_color=0d1117&title_color=f89820&text_color=ffffff&icon_color=f89820&hide_border=true&langs_count=8" alt="Most Used Languages" height="180"/>
+      <!-- Top Languages Card -->
+      <td width="50%">
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tirth-22&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" 
+          alt="Most Used Languages" 
+        />
       </td>
-      <td align="center">
-        <img src="https://nirzak-streak-stats.vercel.app?user=Tirth-22&theme=dark&background=0d1117&ring=f89820&fire=f89820&currStreakLabel=f89820&sideNums=ffffff&dates=aaaaaa&mode=weekly&hide_border=true" alt="Weekly GitHub Streak" height="180"/>
+      <!-- Weekly Streak Card -->
+      <td width="50%">
+        <img 
+          src="https://nirzak-streak-stats.vercel.app?user=Tirth-22&theme=tokyonight&mode=weekly" 
+          alt="Weekly GitHub Streak" 
+        />
       </td>
     </tr>
   </table>
 </div>
 
+<!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tirth-22&bg_color=0d1117&color=ffffff&line=f89820&point=f5c791&area=true&hide_border=true" width="90%">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Tirth-22&bg_color=0d1117&color=8be9fd&line=50fa7b&point=ffb86c&area=true&hide_border=true" 
+    width="90%"
+  />
+</div>
+
+<!-- Divider -->
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
