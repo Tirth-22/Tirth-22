@@ -28,7 +28,7 @@
 
 <!-- Connect With Me -->
 <div align="center"> 
-   <h2>📬 Connect With Me</h2>
+   <h5>📬 Connect With Me</h5>
    <a href="mailto:tirthmakadia2006@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
    </a>
