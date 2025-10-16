@@ -53,7 +53,14 @@
 </div>
 <h1 align="center">🧩 Frameworks & Databases</h1>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=postman,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=postman,mysql" />
+</div>
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+<h1 align="center">⚙️ Build Tools & Others</h1>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=maven,gradle,git,github,vscode" />
 </div>
 
 <!-- Divider -->
