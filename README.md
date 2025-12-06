@@ -4,14 +4,14 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hyy+There!+I%60m+Tirth+Makadia;Welcome+to+my+Github+page" alt="Typing SVG" />
   </a>
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <hr>
 </div>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Java+Developer;Intersted+in+SpringBoot+%26+Microservices;+DevOps+%26+Cloud+Enthusiast" alt="Typing SVG" />
   </a>
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <hr>
 </div>
 
 <div align="center" style="display:flex; justify-content:center;  align-items:center; gap:20px;">
@@ -23,7 +23,7 @@
 
 <!-- Divider -->
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <hr>
 </div>
 
 <!-- Connect With Me -->
@@ -40,7 +40,7 @@
    </a>
 </div>
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <hr>
 </div>
 <!-- Languages, Frameworks & Databases -->
 <h1 align="center">⚒️ Languages</h1>
@@ -49,14 +49,14 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+ <hr>
 </div>
 <h1 align="center">🧩 Frameworks & Databases</h1>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=spring,postman,mysql" />
 </div>
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <hr>
 </div>
 <h1 align="center">⚙️ Build Tools & Others</h1>
 <div align="center">
@@ -65,7 +65,7 @@
 
 <!-- Divider -->
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <hr>
 </div>
 
 <!-- GitHub Analytics -->
@@ -118,5 +118,5 @@
 
 <!-- Divider -->
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <hr>
 </div>
