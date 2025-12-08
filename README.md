@@ -89,7 +89,7 @@
     <tr>
       <!-- Top Languages Card -->
       <td width="50%">
-          <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Tirth-22&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&count_private=true&include_all_commits=true&token=${{ secrets.PAT_1 }}" alt="most language used"/>
+           <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Tirth-22&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="most language used"/>
       </td>
       <!-- Weekly Streak Card -->
       <td width="50%">
