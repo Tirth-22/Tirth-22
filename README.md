@@ -53,7 +53,7 @@
 </div>
 <h1 align="center">🧩 Frameworks & Databases</h1>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=spring,react,vite,postman,mysql,postgres,mongodb" />
+ <img src="https://skillicons.dev/icons?i=spring,react,vite,postman,mysql,postgresql,mongodb" />
 </div>
 <div align="center">
   <hr>
