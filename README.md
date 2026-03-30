@@ -81,7 +81,7 @@
       <!-- GitHub Streak Card -->
       <td width="50%">
         <img 
-          src="https://nirzak-streak-stats.vercel.app?user=Tirth-22&theme=tokyonight" 
+          src="https://streak-stats.demolab.com?user=Tirth-22&theme=tokyonight&cache_seconds=86400" 
           alt="GitHub Streak" 
         />
       </td>
@@ -96,7 +96,7 @@ alt="most language used"/>
       <!-- Weekly Streak Card -->
       <td width="50%">
         <img 
-          src="https://nirzak-streak-stats.vercel.app?user=Tirth-22&theme=tokyonight&mode=weekly" 
+          src="https://streak-stats.demolab.com?user=Tirth-22&theme=tokyonight&mode=weekly" 
           alt="Weekly GitHub Streak" 
         />
       </td>
